@@ -1,5 +1,5 @@
-vless://perfectos@0.0.0.0:443?type=tcp&headerType=none&security=none#By%20Perfectos
-vless://perfectos@0.0.0.0:443?type=tcp&headerType=none&security=none#Рекомендую%20для%20Happ%20и%20Streisand
+vless://perfectos@0.0.0.0:443?type=tcp&headerType=none&security=none#🥀%20By%20Perfectos
+vless://perfectos@0.0.0.0:443?type=tcp&headerType=none&security=none#✅%20Рекомендую%20для%20Happ%20и%20Streisand
 vless://4371ad14-b981-4699-bedf-83fb79bde3e6@51.250.65.209:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df#🇷🇺%20Russia%20—%20#1
 vless://4371ad14-b981-4699-bedf-83fb79bde3e6@51.250.65.209:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df#🇷🇺%20Russia%20—%20#2
 vless://846c5d45-936c-42f6-9120-2d13830d5fa0@vkll.takovpn.ru:443?type=tcp&headerType=none&security=reality&fp=chrome&sni=eh.vk.com&pbk=t0Gj0moa6d8jMp9LazLtWPenE3wl_M9tMHveifor8GU&sid=4d4421a0bac569&spx=#🇷🇺%20Russia%20—%20#3
