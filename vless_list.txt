@@ -1,5 +1,5 @@
 vless://perfectos@0.0.0.0:443?type=tcp&headerType=none&security=none#By Perfectos
-vless://perfectos@0.0.0.0:443?type=tcp&headerType=none&security=none#Рекомендую для Happ и V2rayNG (IOS: V2Box, Streisand)
+vless://perfectos@0.0.0.0:443?type=tcp&headerType=none&security=none#Рекомендую для Happ и Streisand
 vless://4371ad14-b981-4699-bedf-83fb79bde3e6@51.250.65.209:443/?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df#🇷🇺 Russia — #1
 vless://4371ad14-b981-4699-bedf-83fb79bde3e6@51.250.65.209:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df#🇷🇺 Russia — #2
 vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.219:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.cloudflare.com&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#🇷🇺 Russia — #3
